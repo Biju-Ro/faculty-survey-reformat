@@ -9,7 +9,7 @@ Transforms Faculty Sustainability Survey data from wide format to long format, c
 
 ### Installation
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/Biju-Ro/faculty-survey-reformat
 cd faculty-survey-processor
 npm install
 ```
